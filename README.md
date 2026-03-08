@@ -102,6 +102,12 @@ IF (Salary<3000,"Low", else if(Salary<7000,"Medium","High"))
 ---
 ![TDI-HR-ANALYSIS-DASHBOARD](Raw.png)
 
+![TDI-HR-ANALYSIS-DASHBOARD](query.png)
+
+![TDI-HR-ANALYSIS-DASHBOARD](Cleaned.png)
+
+![TDI-HR-ANALYSIS-DASHBOARD](Analysis.png)
+
 ---
 
 # KEY METRICS WORKED ON
