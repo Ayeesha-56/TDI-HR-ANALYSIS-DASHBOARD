@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![TDI-HR-ANALYSIS-DASHBOARD](Dashboardhr.png)
+![TDI-HR-ANALYSIS-DASHBOARD](Dashboard.png)
 
 ---
 
