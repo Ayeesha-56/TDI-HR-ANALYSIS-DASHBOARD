@@ -1,12 +1,12 @@
 # TDI-HR-ANALYSIS-DASHBOARD
 
-## Dashboard Preview
+## DASHBOARD PREVIEW
 
 ![TDI-HR-ANALYSIS-DASHBOARD](Dashboard.png)
 
 ---
 
-# HR Dataset Documentation
+# HR DATASET DOCUMENTATION
 
 ## PROJECT OVERVIEW:
 
